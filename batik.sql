@@ -14,8 +14,8 @@
 
 
 -- Dumping database structure for batik
-CREATE DATABASE IF NOT EXISTS `batik` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
-USE `batik`;
+-- CREATE DATABASE IF NOT EXISTS `batik` !40100 DEFAULT CHARACTER SET utf8mb4 ;
+-- USE `batik`;
 
 -- Dumping structure for table batik.admin
 CREATE TABLE IF NOT EXISTS `admin` (
